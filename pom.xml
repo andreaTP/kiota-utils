@@ -5,6 +5,14 @@
     <artifactId>kiota-utils-parent</artifactId>
     <packaging>pom</packaging>
     <version>999-SNAPSHOT</version>
+
+    <licenses>
+        <license>
+            <name>Apache-2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
     
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

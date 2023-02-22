@@ -13,6 +13,14 @@
     <artifactId>kiota-maven-plugin-it</artifactId>
     <packaging>pom</packaging>
 
+    <licenses>
+        <license>
+            <name>Apache-2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <build>
         <plugins>
             <plugin>
