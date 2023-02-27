@@ -65,7 +65,7 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>com.github.andreaTP.kiota-utils</groupId>
+                <groupId>com.redhat.cloud</groupId>
                 <artifactId>kiota-maven-plugin</artifactId>
                 <version>@project.version@</version>
                 <executions>
