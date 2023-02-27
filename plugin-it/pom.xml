@@ -4,14 +4,22 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.andreaTP.kiota-utils</groupId>
+        <groupId>com.redhat.cloud</groupId>
         <artifactId>kiota-utils-parent</artifactId>
-        <version>999-SNAPSHOT</version>
+        <version>0.0.1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>kiota-maven-plugin-it</artifactId>
     <packaging>pom</packaging>
+
+    <licenses>
+        <license>
+            <name>Apache-2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <build>
         <plugins>
